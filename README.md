@@ -1,2 +1,2 @@
-# matem-tica_aplicada-computa-o-da-uninter
+# matematica_aplicada-computacao-da-uninter
 matemática_aplicada á computação da uninter 
